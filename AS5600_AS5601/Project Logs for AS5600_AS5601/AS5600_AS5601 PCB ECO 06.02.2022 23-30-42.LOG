@@ -1,0 +1,96 @@
+Added Component: Designator=C1(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J2(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J3(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J4(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J5(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J6(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=J7(P_RR-1mm-2.5mm-50%)
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0603)
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0603)
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-8-150)
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AS5600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Position Sensor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIR/B Pin=J7-1
+Added Pin To Net: NetName=DIR/B Pin=U1-5
+Added Net: Name=DIR/B
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=OUT/PUSH Pin=J3-1
+Added Pin To Net: NetName=OUT/PUSH Pin=U1-3
+Added Net: Name=OUT/PUSH
+Added Pin To Net: NetName=PGO/A Pin=J6-1
+Added Pin To Net: NetName=PGO/A Pin=R2-1
+Added Pin To Net: NetName=PGO/A Pin=U1-8
+Added Net: Name=PGO/A
+Added Pin To Net: NetName=SCL Pin=J2-1
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=SCL Pin=U1-7
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J5-1
+Added Pin To Net: NetName=SDA Pin=R4-1
+Added Pin To Net: NetName=SDA Pin=U1-6
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=C1-2
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=J1-1
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=R1-2
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=R3-2
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=R4-2
+Added Pin To Net: NetName=VCC_5V_3V3 Pin=U1-1
+Added Net: Name=VCC_5V_3V3
+Added Pin To Net: NetName=VDD3V3 Pin=C2-2
+Added Pin To Net: NetName=VDD3V3 Pin=R1-1
+Added Pin To Net: NetName=VDD3V3 Pin=U1-2
+Added Net: Name=VDD3V3
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component C1 CAP-100N
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component C2 CAP-1U
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J1 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J2 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J3 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J4 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J5 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J6 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component J7 Pad
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component R1 RES-0
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component R2 RES-1K
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component R3 RES-4K7
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component R4 RES-4K7
+Added Member To Class: ClassName=AS5600_AS5601 Member=Component U1 AS5600/AS5601
