@@ -5,8 +5,8 @@
 
 ## 📃 Описание
 
-* [Проект в Altium Designer](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/AS5600_AS5601)
-* Файлы для [производства](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/Fabric)
-* Файл [принципиальной схемы](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/Docs/AS5600_AS5601_SCH.pdf)
-* Файл [сборочного чертежа](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/Docs/AS5600_AS5601_ASM.pdf)
-* Файл [платы в 3D](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/Docs/AS5600_AS5601_3D.pdf)
+* [Проект в Altium Designer](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/tree/main/AS5600_AS5601)
+* Файлы для [производства](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/tree/main/Fabric)
+* Файл [принципиальной схемы](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/blob/main/Docs/AS5600_AS5601_SCH.pdf)
+* Файл [сборочного чертежа](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/blob/main/Docs/AS5600_AS5601_ASM.pdf)
+* Файл [платы в 3D](https://github.com/S-LABc/AMS-AS5600-AS5601-Sensors-Board/blob/main/Docs/AS5600_AS5601_3D.pdf)
