@@ -1,12 +1,19 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [AS5600_AS5601.PrjPcb]
-   Generated File[AS5600_AS5601.TXT]
-   Generated File[AS5600_AS5601.LDP]
-   Generated File[AS5600_AS5601.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [AS5600_AS5601.PrjPcb]
+   Generated File[AS5600_AS5601.GTO]
+   Generated File[AS5600_AS5601.GTS]
+   Generated File[AS5600_AS5601.GTL]
+   Generated File[AS5600_AS5601.GBL]
+   Generated File[AS5600_AS5601.GBS]
+   Generated File[AS5600_AS5601.GBO]
+   Generated File[AS5600_AS5601.GM2]
+   Generated File[AS5600_AS5601.GD1]
+   Generated File[AS5600_AS5601.EXTREP]
+   Generated File[AS5600_AS5601.REP]
 
 
-Files Generated   : 3
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 21:38:52 On 05.05.2022
+Finished Output Generation At 21:02:14 On 20.11.2022
